@@ -1,2 +1,2 @@
 # uC-Prac2
-AVR AVR OpCode Decode.
+AVR OpCode Decoder.
